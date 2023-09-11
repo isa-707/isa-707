@@ -1,7 +1,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&text=Olá%20&fontSize=50&animation=fadeIn&height=210&fontAlignY=30&desc=Bem-vindo%20ao%20meu%20GitHub&descSize=25&descAlignY=50&color=gradient&customColorList=13)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isah_yass)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-osowski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-osowski/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osowskiisabela@gmail.com)
 
 <!--
