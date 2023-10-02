@@ -7,15 +7,10 @@
 Estudante de Bacharelado de Ciencia da Computacao na UTFPR do campus Medianeira
 
 ✨Linguagens estudadas✨
-C
-C#
-PHP
-Python
-JavaScript
+| C | C# | PHP | Python | JavaScript
 
 ✨Banco de dados✨
-PostgreSQL
-SQL Server
+| PostgreSQL | SQL Server
 
 🔭Atualmente trabalhando em um projeto de analise de dados em python
 <!--
