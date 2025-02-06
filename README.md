@@ -37,7 +37,7 @@ Others
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-🔭Atualmente trabalhando em um projeto de analise de dados em python
+🔭Atualmente trabalhando em um projeto PIBITI com bolsa CNPq
 <!--
 **isa-707/isa-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
